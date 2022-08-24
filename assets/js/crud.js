@@ -23,6 +23,11 @@ function addNombre(){
    }
 }
 
+//se va reutilizar mucho
+function updateLista(){
+
+}
+
 function clearNombre(){
     localStorage.clear();
     nombres= [];
